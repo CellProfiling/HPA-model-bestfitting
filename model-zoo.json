@@ -17,7 +17,7 @@
       "icon": "😺"
     },
      {
-      "name": "",
+      "name": "HPA-model-bestfitting",
       "tags": ["PyTorch"],
       "requirements": ["pip: pytorch==1.0"],
       "entrypoints": {
